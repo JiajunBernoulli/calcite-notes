@@ -7,5 +7,5 @@ you may find that you need to spend a lot of time building cases.
 There are some runnable examples and concise documents in the repository.
 
 ## Available Chapters
-- CBO
+- [CBO](notes/cbo/)
 - [TODO]...
